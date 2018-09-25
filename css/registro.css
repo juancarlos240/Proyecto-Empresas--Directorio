@@ -1,0 +1,17 @@
+.cntElements{
+    width: 100vw;
+   /* height: 100vh; */
+   padding: 10px;
+    border: solid 1px red;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; 
+}
+
+.cntForm{
+
+    max-width: 550px;
+    border: solid 1px blue;
+    padding: 10px;
+
+}
