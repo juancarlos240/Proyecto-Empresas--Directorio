@@ -1,0 +1,106 @@
+// Mediaqueries
+$breakpoints : (
+    small:      576px,
+    medium:     768px,
+    large:      992px,
+    largest:    1200px
+);
+@mixin bp($breakpoint) { 
+    @if map-has-key($breakpoints, $breakpoint) {
+        @media (min-width: #{map-get($breakpoints, $breakpoint)}) {
+            @content;
+        }
+    }
+    @else {
+        @warn "El valor `#{$breakpoint}` no existe. Tonto :P";
+    }
+}
+
+main.user_index{
+	.carousel{
+		.overlay{
+			background: rgba(0,0,0,0.5);
+		    top: 0;
+		    width: 100%;
+		    height: 100%;
+		    position: absolute;
+		    text-align: center;
+		    color:#fff;
+		    padding:10% 5%;
+			h1{
+				font-size:5.8vw;
+				text-transform:uppercase;
+				color:inherit;
+			}
+			p{
+				font-size:4vw;
+				color:inherit;
+				
+			}
+		}
+		.carousel-inner{
+			height: auto;
+		}
+	} 
+	.empresas{
+		margin-top: 20px;
+		h2{
+			text-align:center;
+			font-size:5.9vw; 
+			margin-bottom: 20px;
+		}
+		.row{
+			margin:0px;
+			.item_empresa{
+				border: 1px solid #e9e9e9;
+				margin-bottom:20px;
+				padding: 5px;
+				.titel_empresa{
+					display: flex;
+					align-items: center;
+					justify-content: space-around;
+					img{
+						width: 70px;
+					    height: 75px;
+					}
+					p{
+						font-size:5vw;
+					    color: #333;
+					}
+				}
+			}
+			.info {
+			    line-height: 20px;
+			    color: #858585;
+			    margin: 15px 0;
+			    padding: 0px 8%;
+			    font-size: 4.1vw;
+			}
+			.foote_card{
+				border-top:1px solid #e9e9e9;
+				padding: 10px; 
+				 a{
+					display:inline-block;
+					width: 100%;
+					text-decoration: none;
+					position: relative;
+					span{
+						position: relative;
+						right: -30px;
+						font-size:10vw;
+						font-weight: bold;
+						position:absolute;
+						right: 40px;
+    					top: -23px;
+    					transition: right 2s;
+					}
+					&:hover{
+						span{
+							right: 20px;
+						}
+					}
+				}
+			}
+		}
+	}
+}

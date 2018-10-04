@@ -1,0 +1,70 @@
+.user_index .carousel .overlay{
+	background: rgba(0,0,0,0.5);
+    top: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    text-align: center;
+    padding-top:10%;
+}
+.user_index .carousel .carousel-inner{
+	height: 70vh;
+}
+.user_index .carousel .overlay h1,p{
+	color: white;
+}
+.empresas{
+	margin-top: 20px;
+}
+.empresas h2{
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+.empresas .row{
+	align-items: certer;
+}
+
+.empresas .item_empresa{
+	border: 1px solid #e9e9e9;
+	margin-bottom:20px;
+	width: 32%;
+	padding: 5px;
+}
+.empresas .item_empresa .titel_empresa{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.empresas .item_empresa .titel_empresa img{
+	width: 70px;
+    height: 75px;
+}
+.empresas .item_empresa .titel_empresa p{
+		font-size:20px;
+	    color: #333;
+}
+
+.empresas .info {
+    line-height: 20px;
+    color: #858585;
+    margin: 15px 0;
+    padding: 0px 8%;
+}
+.foote_card{
+	border-top:1px solid #e9e9e9;
+	padding: 10px;
+}
+.foote_card a{
+	display:inline-block;
+	width: 100%;
+	text-decoration: none;
+}
+.foote_card a span{
+	position: relative;
+	right: -30px;
+	font-size: 15px;
+	color:red;
+	font-weight: bold;
+
+}

@@ -1,0 +1,129 @@
+secrum y kanmab: 
+	la agilidad es un marco de referecian
+
+	*agilidad: 
+		es una filosofia de vida, con un cojunto de valores y pricipios, se basan en cominicacion en quipos.
+	
+	*agui humbrella:
+		scalado : ya no solo hablamos de equipos o proyectos, hablamos de la parte de estructur organizacional o portafolios.
+
+		programa:compuesto de muchos proyectos y juntos hacen un todo:
+		portafolio se conjuta de programas.
+
+
+Manifiesto agil:
+ nace a partir de como hacer las cosas, para que funcione aun asi estemos en crisis:
+
+ se hacen lo que importe 
+ 	1 individuoes  e interaccion sobre procesos y herramientas
+ 	2 softwere funcionando sobre documentos extensivas
+ 	3 Colaboracion con el cliente sobre negociacion sontractual
+ 	5 respuestas ante el cambio a seguir un plan.
+
+pricipios del manifiesto:
+	12 pricipios:
+		1 satisfaccion del cliente --> ciente feliz y cliente satisfecho: entregando valor de forma continua (en scrum forma continua)
+		2 los cambios son buenos --> los cambios son bueno y de fora ordenada (esponenciar el proyecto de los )
+		3 entregas frecuentes y en poco tiempo.
+		4 colaboracion continua. que el cliente simpre este participando.
+		5 motivacion del equipo---> los proyectos se desarrolla en torno a individuos motivados.
+		6 cominicacion verval y aguil. la forma mas efectiva de resolver el problema es hablando.
+		7 el exito esta en los resultados--- lo que no se mide no se mejora, si muestras algo funcional
+		8 sostenible y constante ---sabes cuanto puedo trabaja
+		9 antencion a los detalles ----> la atencion continua a la exelencia
+		10 simple ----> la simplicidad no te compliques la vida
+		11 equipos auto organizados --->  de donde emegen las mejores arquitecturas (tomar las deciciones en conjutno y responsabilidades juntos)
+		12 mejora continua: proponer mejoras.
+
+/////////////////QUE ES SCRUM////////////////////////////////
+
+es un marco teorico basado en los principios agules se enfoca de valor alos clientes en lapsos de tienmpo 
+
+
+escrum tiene tres pilares:
+
+	1 trasparencia
+	2 insepccion--- secciones de isnpeccion para adaptar (mejorar)
+	3 adaptacion--- 
+
+
+	valores de scrum: foco, respeto, compromiso, apertura, coraje.
+
+Roles en scrum:
+	1 product owner
+	2 scrumm master
+	3 scrum team
+
+en escrum tenemos seremonias
+
+un sprint: puede durar entre 2 3 o 4 semans. 
+
+en el dia 1 : planning --> daily--> review--- >retrospective----return
+
+
+planing: se hace un comprosizo del dia 1 al N
+
+lista de cosas que tengo que hacer a la cual se le llama product backlog ---> ete produc backlog esta priorizado y  que me da mas valor, del 1 al N.
+
+
+spring backlog---> se compone de lo que el scrum team puede hacer del produc backlog.{
+    (las historias de usuario van de la mano con el backlog)
+	historias de usuario: contexto y gramatica que es yo como "el rol" --> que necesito  y para que lo necesito.(como se hace y se tiene que probrar)-----las historias se convierten en tareas.
+
+	las tareas se miden en puntos de histrias de usuario (chica, mediana, grande o con el poker  planing) utilizando fibonnaci 1,2,3,5,8,12.
+}
+tareas---> cada una de las tareas se define quien la va a hacer y cuantas horas le se le invierten a la tarea. 
+
+las tareas se colocan en un board en tareas (las tareas se miden en hrs): este boar funciona para saver el estuatu y
+
+to do  | doing | done |  sugerir columna de bloqueado |
+dia 1  |       |      |   lo que detiene una tarea    |
+       |       |      |                               |
+
+
+
+dayli: que has echo que vas a hacer y que impedimentos tienes. (no dira mas de 15 min).
+que hice ayer ?
+que hare hoy ?
+y que me detiene ?
+
+
+review: el product owner revisa e software y cumple con los criterios de aceptacion. 
+
+restrospectiva: que aprendimos y que no hicmos tan bien o errores.
+ 
+velocidad : medir de cuanto es, solo tenemos 2 esenarios, termine las historias o no las termine 
+
+si termine cuantos puntos me gano: sumo los puntos de las historias terminadas : 
+ejemplo: una historia de 5 otra de 2 y una ultima de 8
+
+la finalidad del primer spring es sabe cuantas historias de usuario o cuantas tareas lealizo el equipol, para medir cuantas tareas colocaras en tu sigueinte sprint backlog.
+
+
+en el primer spring tiene que llevar  analisis, diseño, puebas, comportamienteo, de las histrias que se van a realizar.
+
+kanban::
+es un flujo de valor teniendo n pasos---->
+todo es un proceso y se divide por etapas
+
+entra algo y sale un producto de valor que va directamente a la as manos deas l cliente, lo cual puede durar 
+dias semanas etc, se hace en el tiempo que sea necesario, medir caunto tienpo tardas y eso es medira un 
+leadtime, y medira cada una de las etapas y eso se llama seclie time
+
+
+pasar de etapa a etapa simpre y cuando pasas hasta que se cumplan siertas politicas--> las cuales estan compuest expuestas
+
+work improvise----> cuanto trabajo se puede hacer enc cada una de asfases. 
+
+
+pricipios: tener un wip  acortar el trbajo, trabajo en equipo. mejora continua 
+
+
+toyota production sistem.
+	
+
+  
+
+
+
+

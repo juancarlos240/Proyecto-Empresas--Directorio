@@ -1,0 +1,91 @@
+/* line 21, scss/index_user.scss */
+main.user_index .carousel .overlay {
+  background: rgba(0, 0, 0, 0.5);
+  top: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  text-align: center;
+  color: #fff;
+  padding: 10% 5%; }
+  /* line 30, scss/index_user.scss */
+  main.user_index .carousel .overlay h1 {
+    font-size: 5.8vw;
+    text-transform: uppercase;
+    color: inherit; }
+    @media (min-width: 576px) {
+      /* line 30, scss/index_user.scss */
+      main.user_index .carousel .overlay h1 {
+        font-size: 30px; } }
+  /* line 38, scss/index_user.scss */
+  main.user_index .carousel .overlay p {
+    font-size: 4vw;
+    color: inherit; }
+    @media (min-width: 576px) {
+      /* line 38, scss/index_user.scss */
+      main.user_index .carousel .overlay p {
+        font-size: 30px; } }
+
+/* line 46, scss/index_user.scss */
+main.user_index .carousel .carousel-inner {
+  height: auto; }
+
+/* line 50, scss/index_user.scss */
+main.user_index .empresas {
+  margin-top: 20px; }
+  /* line 52, scss/index_user.scss */
+  main.user_index .empresas h2 {
+    text-align: center;
+    font-size: 5.9vw;
+    margin-bottom: 20px; }
+  /* line 57, scss/index_user.scss */
+  main.user_index .empresas .row {
+    margin: 0px; }
+    /* line 59, scss/index_user.scss */
+    main.user_index .empresas .row .item_empresa {
+      border: 1px solid #e9e9e9;
+      margin-bottom: 20px;
+      padding: 5px; }
+      /* line 63, scss/index_user.scss */
+      main.user_index .empresas .row .item_empresa .titel_empresa {
+        display: flex;
+        align-items: center;
+        justify-content: space-around; }
+        /* line 67, scss/index_user.scss */
+        main.user_index .empresas .row .item_empresa .titel_empresa img {
+          width: 70px;
+          height: 75px; }
+        /* line 71, scss/index_user.scss */
+        main.user_index .empresas .row .item_empresa .titel_empresa p {
+          font-size: 5vw;
+          color: #333; }
+    /* line 77, scss/index_user.scss */
+    main.user_index .empresas .row .info {
+      line-height: 20px;
+      color: #858585;
+      margin: 15px 0;
+      padding: 0px 8%;
+      font-size: 4.1vw; }
+    /* line 84, scss/index_user.scss */
+    main.user_index .empresas .row .foote_card {
+      border-top: 1px solid #e9e9e9;
+      padding: 10px; }
+      /* line 87, scss/index_user.scss */
+      main.user_index .empresas .row .foote_card a {
+        display: inline-block;
+        width: 100%;
+        text-decoration: none;
+        position: relative; }
+        /* line 92, scss/index_user.scss */
+        main.user_index .empresas .row .foote_card a span {
+          position: relative;
+          right: -30px;
+          font-size: 10vw;
+          font-weight: bold;
+          position: absolute;
+          right: 40px;
+          top: -23px;
+          transition: right 2s; }
+        /* line 103, scss/index_user.scss */
+        main.user_index .empresas .row .foote_card a:hover span {
+          right: 20px; }

@@ -1,0 +1,20 @@
+{
+  "name": "testedesas",
+  "version": "1.0.0",
+  "description": "teste del proyecto con sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass -watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juancarlos240/Proyecto-Empresas--Directorio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juancarlos240/Proyecto-Empresas--Directorio/issues"
+  },
+  "homepage": "https://github.com/juancarlos240/Proyecto-Empresas--Directorio#readme"
+}
